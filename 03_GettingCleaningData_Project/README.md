@@ -1,4 +1,4 @@
-# Overview od scripts
+# Overview of scripts
 
 * getRawData.R
 * run_analysis.R
